@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdscript name="AddModBlueprints">
+	<cues>
+		<cue name="AddModBlueprintsInit" version="1">
+			<conditions>
+				<check_any>
+					<event_game_started />
+					<event_game_loaded />
+				</check_any>
+				<delay exact="5s" />
+			</conditions>
+			<actions>
+				<add_blueprints wares="ware.scaco_weapon_mod_mk0" />
+				<add_blueprints wares="ware.scaco_engine_mod_mk0" />
+				<add_blueprints wares="ware.scaco_ship_mod_mk0" />
+				<add_blueprints wares="ware.scaco_shield_mod_mk0" />
+			</actions>
+		</cue>
+	</cues>
+</mdscript>

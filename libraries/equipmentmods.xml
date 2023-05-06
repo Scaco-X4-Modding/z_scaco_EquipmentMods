@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<?xml-model href=""?>
+<diff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<add sel="/equipmentmods/weapon">
+		<damage ware="scaco_weapon_mod_mk0" quality="1" min="2.0" max="2.0">
+			<bonus chance="1.0" max="10">
+				<cooling min="2.0" max="2.0" />
+				<reload min="2.0" max="2.0" />
+				<speed min="1.25" max="1.25" />
+				<beamlength min="1.75" max="1.75" />
+				<lifetime min="1.30" max="1.30" />
+				<chargetime min="0.7" max="0.7" />
+				<mining min="2.0" max="2.0" />
+				<rotationspeed min="1.5" max="1.5" />
+				<sticktime min="1.5" max="1.5" />
+				<surfaceelement min="1.5" max="1.5" />
+			</bonus>
+		</damage>
+	</add>
+
+	<add sel="/equipmentmods/engine">
+		<travelthrust ware="scaco_engine_mod_mk0" quality="1" min="1.5"
+			max="1.5">
+			<bonus chance="1.0" max="9">
+				<forwardthrust min="1.45" max="1.45" />
+				<travelstartthrust min="1.3" max="1.3" />
+				<travelattacktime min="0.8" max="0.8" />
+				<travelchargetime min="0.8" max="0.8" />
+				<travelreleasetime min="0.8" max="0.8" />
+				<rotationthrust min="1.1" max="1.1" />
+				<strafethrust min="1.3" max="1.3" />
+				<boostthrust min="1.45" max="1.45" />
+				<boostduration min="1.5" max="1.5" />
+			</bonus>
+		</travelthrust>
+	</add>
+
+	<!-- Ship hull mods.. -->
+	<add sel="/equipmentmods/ship">
+		<maxhull ware="scaco_ship_mod_mk0" quality="1" min="5.0" max="5.0">
+			<bonus chance="1.0" max="10">
+				<mass min="0.9" max="0.9" weight="1" />
+				<drag min="0.9" max="0.9" />
+				<radarrange min="1.20" max="1.20" weight="1" />
+				<radarcloak min="-0.3" max="-0.3" weight="1" />
+				<regiondamage min="1.0" max="1.0" weight="1" />
+				<hidecargochance min="1.0" max="1.0" weight="1" />
+				<countermeasurecapacity min="50" max="50" weight="1" />
+				<deployablecapacity min="50" max="50" weight="1" />
+				<missilecapacity min="300" max="300" weight="1" />
+				<unitcapacity min="50" max="50" weight="1" />
+			</bonus>
+		</maxhull>
+	</add>
+
+	<!-- Shield mods.. -->
+	<add sel="/equipmentmods/shield">
+		<capacity ware="scaco_shield_mod_mk0" quality="1" min="3.0" max="3.0">
+			<bonus chance="1.0" max="2">
+				<rechargedelay min="0.5" max="0.5" />
+				<rechargerate min="5.0" max="5.0" />
+			</bonus>
+		</capacity>
+	</add>
+</diff>
