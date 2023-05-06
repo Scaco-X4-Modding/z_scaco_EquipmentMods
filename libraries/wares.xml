@@ -1,37 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <diff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <add sel="/wares">
-    <ware id="scaco_weapon_mod_mk0" name="{8675309,1}" description="{8675309,1}" shortname="{8675309,1}" transport="inventory" volume="1" tags="crafting equipmentmod">
-      <price min="1" average="1" max="1" />
-      <production time="10" amount="1" method="default" name="{8675309,1}">
-        <primary>
-          <ware ware="inv_bandages" amount="1" />
-        </primary>
-      </production>
-    </ware>	
-    <ware id="scaco_engine_mod_mk0" name="{8675309,2}" description="{8675309,2}" shortname="{8675309,2}" transport="inventory" volume="1" tags="crafting equipmentmod">
-      <price min="1" average="1" max="1" />
-      <production time="10" amount="1" method="default" name="{8675309,2}">
-        <primary>
-          <ware ware="inv_bandages" amount="1" />
-        </primary>
-      </production>
-    </ware>
-    <ware id="scaco_ship_mod_mk0" name="{8675309,3}" description="{8675309,3}" shortname="{8675309,3}" transport="inventory" volume="1" tags="crafting equipmentmod">
-      <price min="1" average="1" max="1" />
-      <production time="10" amount="1" method="default" name="{8675309,3}">
-        <primary>
-          <ware ware="inv_bandages" amount="1" />
-        </primary>
-      </production>
-    </ware>	
-    <ware id="scaco_shield_mod_mk0" name="{8675309,4}" description="{8675309,4}" shortname="{8675309,4}" transport="inventory" volume="1" tags="crafting equipmentmod">
-      <price min="1" average="1" max="1" />
-      <production time="10" amount="1" method="default" name="{8675309,4}">
-        <primary>
-          <ware ware="inv_bandages" amount="1" />
-        </primary>
-      </production>
-    </ware>
-  </add>
+	<add sel="/wares">
+		<ware id="scaco_weapon_mod_mk0" name="{8675309,1}"
+			description="{8675309,1}" shortname="{8675309,1}"
+			transport="inventory" volume="1" tags="crafting equipmentmod">
+			<price min="1" average="1" max="1" />
+			<production time="10" amount="1" method="default" name="{8675309,1}">
+				<primary>
+					<ware ware="inv_bandages" amount="1" />
+				</primary>
+			</production>
+		</ware>
+		<ware id="scaco_engine_mod_mk0" name="{8675309,2}"
+			description="{8675309,2}" shortname="{8675309,2}"
+			transport="inventory" volume="1" tags="crafting equipmentmod">
+			<price min="1" average="1" max="1" />
+			<production time="10" amount="1" method="default" name="{8675309,2}">
+				<primary>
+					<ware ware="inv_bandages" amount="1" />
+				</primary>
+			</production>
+		</ware>
+		<ware id="scaco_ship_mod_mk0" name="{8675309,3}"
+			description="{8675309,3}" shortname="{8675309,3}"
+			transport="inventory" volume="1" tags="crafting equipmentmod">
+			<price min="1" average="1" max="1" />
+			<production time="10" amount="1" method="default" name="{8675309,3}">
+				<primary>
+					<ware ware="inv_bandages" amount="1" />
+				</primary>
+			</production>
+		</ware>
+		<ware id="scaco_shield_mod_mk0" name="{8675309,4}"
+			description="{8675309,4}" shortname="{8675309,4}"
+			transport="inventory" volume="1" tags="crafting equipmentmod">
+			<price min="1" average="1" max="1" />
+			<production time="10" amount="1" method="default" name="{8675309,4}">
+				<primary>
+					<ware ware="inv_bandages" amount="1" />
+				</primary>
+			</production>
+		</ware>
+	</add>
 </diff>

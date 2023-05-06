@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-
-<?xml-model href=""?>
 <diff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<add sel="/equipmentmods/weapon">
 		<damage ware="scaco_weapon_mod_mk0" quality="1" min="2.0" max="2.0">
