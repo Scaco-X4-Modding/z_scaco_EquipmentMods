@@ -1,14 +1,38 @@
 <?xml version="1.0"?>
-<content id="tk_EquipmentMods" name="TKs Equipment Mods" description="Adds easy-to-build and slightly overpowered mods to the game." author="TK" version="110" date="2023-01-18" save="0">
-  <text language="7" name="TKs Equipment Mods" description="Adds easy-to-build and slightly overpowered mods to the game." author="TK" />
-  <text language="33" name="TKs Equipment Mods" description="Adds easy-to-build and slightly overpowered mods to the game." author="TK" />
-  <text language="34" name="TKs Equipment Mods" description="Adds easy-to-build and slightly overpowered mods to the game." author="TK" />
-  <text language="39" name="TKs Equipment Mods" description="Adds easy-to-build and slightly overpowered mods to the game." author="TK" />
-  <text language="44" name="TKs Equipment Mods" description="Adds easy-to-build and slightly overpowered mods to the game." author="TK" />
-  <text language="49" name="TKs Equipment Mods" description="Adds easy-to-build and slightly overpowered mods to the game." author="TK" />
-  <text language="55" name="TKs Equipment Mods" description="Adds easy-to-build and slightly overpowered mods to the game." author="TK" />
-  <text language="81" name="TKs Equipment Mods" description="Adds easy-to-build and slightly overpowered mods to the game." author="TK" />
-  <text language="82" name="TKs Equipment Mods" description="Adds easy-to-build and slightly overpowered mods to the game." author="TK" />
-  <text language="86" name="TKs Equipment Mods" description="Adds easy-to-build and slightly overpowered mods to the game." author="TK" />
-  <text language="88" name="TKs Equipment Mods" description="Adds easy-to-build and slightly overpowered mods to the game." author="TK" />
+<content id="tk_EquipmentMods" name="TKs Equipment Mods"
+	description="Adds easy-to-build and slightly overpowered mods to the game."
+	author="TK" version="110" date="2023-01-18" save="0">
+	<text language="7" name="TKs Equipment Mods"
+		description="Adds easy-to-build and slightly overpowered mods to the game."
+		author="TK" />
+	<text language="33" name="TKs Equipment Mods"
+		description="Adds easy-to-build and slightly overpowered mods to the game."
+		author="TK" />
+	<text language="34" name="TKs Equipment Mods"
+		description="Adds easy-to-build and slightly overpowered mods to the game."
+		author="TK" />
+	<text language="39" name="TKs Equipment Mods"
+		description="Adds easy-to-build and slightly overpowered mods to the game."
+		author="TK" />
+	<text language="44" name="TKs Equipment Mods"
+		description="Adds easy-to-build and slightly overpowered mods to the game."
+		author="TK" />
+	<text language="49" name="TKs Equipment Mods"
+		description="Adds easy-to-build and slightly overpowered mods to the game."
+		author="TK" />
+	<text language="55" name="TKs Equipment Mods"
+		description="Adds easy-to-build and slightly overpowered mods to the game."
+		author="TK" />
+	<text language="81" name="TKs Equipment Mods"
+		description="Adds easy-to-build and slightly overpowered mods to the game."
+		author="TK" />
+	<text language="82" name="TKs Equipment Mods"
+		description="Adds easy-to-build and slightly overpowered mods to the game."
+		author="TK" />
+	<text language="86" name="TKs Equipment Mods"
+		description="Adds easy-to-build and slightly overpowered mods to the game."
+		author="TK" />
+	<text language="88" name="TKs Equipment Mods"
+		description="Adds easy-to-build and slightly overpowered mods to the game."
+		author="TK" />
 </content>
